@@ -42,3 +42,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
+## Stats
+<img
+  align="left"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=LucasFe3152&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+  alt="Github Stats"
+/>
+
+
