@@ -42,5 +42,3 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-## Stats
-![LucasFe3152's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasfe3152&theme=blue&show_icons=true)
