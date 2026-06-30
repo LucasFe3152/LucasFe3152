@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00920A&width=435&lines=Data%2C+Signals%2C+Firmware%2C+Embedded...)](https://git.io/typing-svg)
+
 ## Olá, meu nome é Lucas Feitosa!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=LucasFe3152&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
